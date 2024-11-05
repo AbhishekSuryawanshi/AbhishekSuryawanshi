@@ -36,7 +36,7 @@ Here are some of my highlighted projects:
 - **[McDonald's Canada](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)**  
   Contributed to modules like Missed Visit and Voice/QR code integration.
 
-For more of my work, you can check out my [GitHub Repositories](https://github.com/abhisheksuryawanshi?tab=repositories) or visit my **[Portfolio](https://abhisheksuryawanshi.github.io)**.
+For more of my work, visit my **[Portfolio](https://abhisheksuryawanshi.github.io)**.
 
 ---
 
@@ -52,12 +52,6 @@ I love sharing my knowledge with the developer community. Check out my latest ar
 
 - **[Building 2048 PowerPlay Game with SwiftUI](https://medium.com/@iosdev.abhi/building-2048-powerplay-game-with-swiftui-423bf8a400a9)**  
   A deep dive into creating a 2048 game using SwiftUI.
-
----
-
-## 📈 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksuryawanshi&show_icons=true&theme=default)
 
 ---
 
