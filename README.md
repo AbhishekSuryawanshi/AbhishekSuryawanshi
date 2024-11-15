@@ -74,7 +74,7 @@ Thank you for visiting my profile! Don’t hesitate to reach out if you’re int
 
 ## 🎯 Future Goals
 
-I am passionate about expanding my knowledge in **ARKit** and **CoreML** to bring more immersive and intelligent experiences to iOS users. I am also excited to contribute to open-source projects in the iOS community and continue exploring new advancements in **SwiftUI**.
+I am passionate about expanding my knowledge in **ARKit**, **CoreML**, and exploring opportunities to build seamless applications across the Apple ecosystem, including **iOS**, **watchOS**, and **tvOS**. I am also excited to delve into the world of **IoT (Internet of Things)** to integrate smart devices with innovative mobile applications, creating interconnected ecosystems. My goal is to deliver immersive and intelligent user experiences while contributing to open-source projects in the iOS community. Additionally, I aim to continue exploring new advancements in **SwiftUI** to develop innovative and user-centric apps.
 
 ---
 
