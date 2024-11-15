@@ -24,6 +24,9 @@ I’m a **Senior iOS Developer** with over 6 years of experience in designing an
 
 Here are some of my highlighted projects:
 
+- **[AbNetworkingPackage](https://github.com/AbhishekSuryawanshi/AbNetworkingPackage.git)**  
+  A Swift Package Manager for simplified network handling. This package provides a lightweight and efficient solution for API integration, featuring modular components and ease of use.
+
 - **[Swami Saramrut App](https://apps.apple.com/in/app/swami-saramrut/id6723893188)**  
   A devotional app for Swami Samarth Maharaj's devotees, featuring texts, audio, and images to stay connected with Maharaj.
 
